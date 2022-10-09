@@ -1,9 +1,3 @@
---[[
-    floating flinger [FE]
-    by MyWorld and Inkou
-    discord.gg/pYVHtSJmEY
-    no hats needed, r15 supported
-]]
 
 local reanimate = loadstring([[
 --reanimate by MyWorld#4430 discord.gg/pYVHtSJmEY
